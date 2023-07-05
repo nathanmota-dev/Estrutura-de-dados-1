@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1686680221 source:c:\users\noceg\onedrive\documentos\docs\ssss\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+

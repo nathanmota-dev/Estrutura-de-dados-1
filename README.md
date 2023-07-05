@@ -1,0 +1,1 @@
+Projeto Final da Disciplina de Estrutura de Dados 1 em C onde o objetivo é realizar um sistema de gerenciamento de estoque.
